@@ -1,0 +1,60 @@
+body {
+    background-color: #D5D2AE;
+}
+
+header {
+    text-align: center;
+    margin-top: 46px;
+}
+
+h1 {
+    text-align: center;
+    display: inline-block;
+}
+
+.imgheader {
+    display: inline-block;
+    width: 100px;
+    height: 90px;
+}
+
+.box1 {
+    display: inline-block;
+    width: 190px;
+    height: 190px;
+    margin: 10px;
+    background-color: #82B4EE;
+    border: solid black 3px;
+
+}
+
+.box1 img,
+.box2 img {
+    margin-top: 19px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+
+}
+
+.box2 {
+    display: inline-block;
+    width: 190px;
+    height: 190px;
+    margin: 10px;
+    background-color: #F36870;
+    text-align: center;
+    border: solid black 3px;
+
+
+}
+
+
+
+#caja {
+    width: 1108px;
+    height: 850px;
+    margin: 0px auto;
+    text-align: center;
+
+}

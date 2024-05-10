@@ -1,0 +1,323 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    width: 970px;
+    height: 1026px;
+    margin: 0px auto;
+}
+
+#fondo {
+    background: linear-gradient(white, #E5E5E5);
+    width: 970px;
+    height: 1026px;
+}
+
+
+
+
+
+
+body {
+    height: 1026px;
+}
+
+header img {
+    width: 110px;
+    display: inline-block;
+    position: relative;
+    top: 27px;
+
+}
+
+header {
+    font-family: sans-serif;
+}
+
+header h1 {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 300px;
+    font-size: 50px;
+    color: #474747;
+    font-weight: 100;
+}
+
+
+header h2 {
+    background: linear-gradient(#25679F, #5283AC, #5283AC, #25679F);
+    height: 45px;
+    color: white;
+    font-size: 25px;
+    padding-top: 15px;
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    font-weight: 600;
+
+}
+
+header span {
+    color: #21649E;
+}
+
+aside {
+
+    width: 200px;
+    height: 600px;
+    display: inline-block;
+    margin-top: 30px;
+    font-family: sans-serif;
+    margin-left: 10px;
+
+}
+
+aside p {
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+aside span {
+    color: red;
+}
+
+.azul {
+    color: #2B6BA2;
+}
+
+#boton1 {
+    color: white;
+    background: linear-gradient(#6096C2, #2769A1);
+    margin: 15px 15px 3px;
+    padding: 8px 0px;
+    text-align: center;
+    border-radius: 7px
+}
+
+#boton2 {
+    color: white;
+    background: linear-gradient(#EAAF58, #F07500);
+    margin: 4px 15px 35px;
+    padding: 8px 0px;
+    text-align: center;
+    border-radius: 7px;
+}
+
+#barra {
+    height: 1px;
+    border-top: 1px solid black;
+}
+
+#back {
+    width: 200px;
+    height: 331px;
+    margin-top: 24px;
+}
+
+aside div p {
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 316px;
+    font-size: 22px;
+
+}
+
+#ninj {
+    width: 122px;
+    position: relative;
+    text-align: center;
+    bottom: 332px;
+    margin-left: 29px;
+}
+
+#boton3 {
+    color: white;
+    background: linear-gradient(#64CEDF, #2DC7DF, #64CEDF);
+    margin: 15px 15px 3px;
+    padding: 8px 0px;
+    border-radius: 7px;
+    position: relative;
+    text-align: center;
+    bottom: 342px;
+}
+
+#boton3 p {
+    padding: 10px 0px;
+}
+
+#letra1 {
+    color: rgba(255, 255, 255, 0.653);
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+
+}
+
+#letra2 {
+    color: rgba(255, 255, 255, 0.858);
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+}
+
+#letra3 {
+    color: rgb(255, 255, 255);
+    font-size: 16pt;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    display: inline-block;
+    width: 730px;
+    vertical-align: top;
+    margin: 21px 0px 0px 10px;
+    padding-right: 15px;
+    font-family: sans-serif;
+}
+
+main img #Mcont img {
+    width: 25px;
+}
+
+#block1 {
+    width: 337px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#block1 p {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+#block1 img {
+    width: 25px;
+}
+
+#block2 {
+    text-align: end;
+    padding-left: 50px;
+    display: inline-block;
+    width: 334px;
+}
+
+#block2 p {
+    display: inline-block;
+    font-size: 12px;
+    margin-left: px;
+}
+
+#Contimg {
+    width: 50px;
+    display: inline-block;
+}
+
+img {
+    width: 50px;
+}
+
+#parrafo0 {
+    display: inline-block;
+    font-size: 15px;
+    text-align: end;
+    width: 169px;
+}
+
+#parrafo0 span {
+    font-size: 27px;
+    color: #00BEDF;
+    font-weight: 700;
+}
+
+#cont2 {
+    display: inline-block;
+}
+
+section p {
+    margin: 10px 0px;
+    text-align: left;
+}
+
+section li {
+    margin: 10px 0px;
+    text-align: left;
+}
+
+section h3 {
+    color: #1E629C;
+    margin: 10px 0px;
+    text-align: left;
+}
+
+#barra2 {
+    height: 1px;
+    border-top: 1px solid black;
+}
+
+section span {
+    color: #0097AE;
+}
+
+div section {
+    text-align: center;
+}
+
+section img {
+    width: 309px;
+    ;
+}
+
+section ol {
+    margin: 10px;
+}
+
+footer img {
+    display: inline-block;
+    width: 150 px;
+}
+
+footer {
+
+    width: 730px;
+    display: inline-block;
+    margin-left: 228px;
+    border-left: 6px solid #0085E0;
+    height: 133px;
+    border-right: 6px solid #0085E0;
+    border-top: 6px solid #0085E0;
+    position: relative;
+    bottom: 180px;
+}
+
+#contendorft {
+    display: inline-block;
+}
+
+#contendorft img {
+    display: inline-block;
+    width: 150px;
+}
+
+
+footer h3 {
+    color: #1E629C;
+    margin-top: 10px;
+}
+
+footer p {
+    margin-top: 10px;
+}
+
+#parrafot {
+    display: inline-block;
+    width: 520px;
+    vertical-align: top;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+footer span {
+    color: #0097AE;
+}
