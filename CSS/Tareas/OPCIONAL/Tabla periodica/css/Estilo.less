@@ -1,0 +1,55 @@
+@azul: rgb(104, 155, 255);
+@amarillo: rgb(254, 203, 0);
+@rosa: rgb(253, 154, 152);
+@verde: rgb(31, 202, 33);
+@letra: rgb(41, 54, 187);
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    padding-right: 48px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    p {
+        height: 58px;
+        width: 58px;
+        background-color: aquamarine;
+        margin: 15px 0px 0px 15px;
+        color: red;
+    }
+    .EL1{
+        display: flex;
+        flex: 1;
+        justify-content: space-between;
+
+    }
+
+    .azul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: @azul ;
+        color: black;
+        span{ color: @letra;
+        }
+    }
+
+    .amarillo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: @amarillo ;
+        color: black;
+        span{ color: @letra;
+    }
+    }
+
+}
