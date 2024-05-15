@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  },
+  "dependencies": {
+    "sudo": "^1.0.3"
+  }
+}
