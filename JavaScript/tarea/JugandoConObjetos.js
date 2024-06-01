@@ -16,3 +16,9 @@ function mayores() {
 
     datos()
     mayores()
+
+    var day="monday"
+
+    var x=day.length
+
+    console.log("la longitud de la cadena es:" +x) 
